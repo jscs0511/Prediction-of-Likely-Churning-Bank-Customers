@@ -1,1 +1,2 @@
-# Prediction-of-Likely-Churning-Bank-Customers
+# Project
+Prediction of Likely Churning Bank Customers
